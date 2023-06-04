@@ -1,6 +1,7 @@
 # Overview
 
-Project is currently in progress aims to create a fully automated data pipeline that extracts data from Spotify API, transforms it, and stores it in S3, enabling efficient analytics through Glue and Athena.
+Project is currently in progress.
+Project aims to create a fully automated data pipeline that extracts data from Spotify API, transforms it, and stores it in S3, enabling efficient analytics through Glue and Athena.
 
 # Project Steps
 
